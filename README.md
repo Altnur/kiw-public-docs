@@ -14,7 +14,7 @@ The game development will be splitted in phases or stages, in a way that will be
 
 Starting from the very base and conceptual idea of an RPG, to the most complex systems.
 
-### Planed stages
+### Planned stages
 
 - [X] [Base](./stages/base.md)
 - [ ] [Basic Constitution](./stages/basic-constitution.md)
