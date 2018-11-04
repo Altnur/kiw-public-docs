@@ -14,6 +14,7 @@ Starting from the very base and conceptual idea of an RPG, to the most complex s
 
 ### Planed stages
 
-- [Base](./stages/base.md)
-- [Basic Constitution](./stages/basic-constitution.md)
-- [Basic Attributes](./stages/basic-attributes.md)
+- [X][Base](./stages/base.md)
+- [ ][Basic Constitution](./stages/basic-constitution.md)
+- [ ][Basic Attributes](./stages/basic-attributes.md)
+- [ ][Equipable items](./stages/equipable-items.md)
