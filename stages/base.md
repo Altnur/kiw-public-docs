@@ -8,23 +8,25 @@ It should include:
 
 Controllable entities, either by a player (with input) or IA
 
-Characters has 2 states: Controllables or not.
-It has, also, a basic speed attribute for movement. More attributes can be added with mods.
-It has an inventory, that is a list of Item objects, that can be used individually.
-Sprite animations can be played from scripts.
-Characters can use tiles, or other charactes, present in the world, to trigger functions.
+- Characters has 2 states: Controllables or not.
+- It has, also, a basic speed attribute for movement. More attributes can be added with mods.
+- It has an inventory, that is a list of Item objects, that can be used individually.
+- Sprite animations can be played from scripts.
+- Characters can use tiles, or other charactes, present in the world, to trigger functions.
 
 ## Item
 
 An item is an entity that is present in the inventory of a character.
+
 It can be used, either in the inventory, or anywhere else from the scripts.
 
 ## Tile
 
 Entity that, unlike a character, are normally fixed (But they can also move, like platforms)
+
 Sprite animations can be played from scripts.
 
-The difference between a tile, and a character, is that a character has an [rigidbody](https://docs.unity3d.com/ScriptReference/Rigidbody.html), so it can trigger collision and physics functions.
+The difference between a tile, and a character, is that a character has a [rigidbody](https://docs.unity3d.com/ScriptReference/Rigidbody.html), so it can trigger collision and physics functions.
 
 ## Generator
 
@@ -33,6 +35,7 @@ Can generate tiles and characters.
 ## HUD
 
 Basic element for showing information.
+
 They are panels, with a custom background.
 Or text with custom color.
 
