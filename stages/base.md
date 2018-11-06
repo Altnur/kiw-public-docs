@@ -66,6 +66,11 @@ These are the types of mods available from this stage:
 - WorldScript: Script general, with a single instance, that is always running
   Example:
     - Weather system
+- Entity: Entities are simple objects that arent' saved in database, can be instantiated from any script, and are for simple things.
+  Example:
+    - Arrow
+    - Explosion
+    - Effects
 
 And with this stage, we can make a complete RPG. We can make a supermod for teams, and make submods for equipment from that, for example. Or make an attribute HP, that when it reach 0, it makes the character not controllable, and plays the dead animation.
 
