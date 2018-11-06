@@ -32,6 +32,7 @@ The melee weapon have:
 
 - Hitbox position (x and y)
 - Hitbox size (width and height)
+- HitboxTime
 
 ## Range weapons
 
