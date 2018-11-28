@@ -17,8 +17,8 @@ Starting from the very base and conceptual idea of an RPG, to the most complex s
 ### Planned stages
 
 - [X] [Base](./stages/base.md)
-- [ ] [Basic Constitution](./stages/basic-constitution.md)
-- [ ] [Basic Attributes](./stages/basic-attributes.md)
-- [ ] [Equipable items](./stages/equipable-items.md)
-- [ ] [Stackable items](./stages/stackable-items.md)
+- [X] [Basic Constitution](./stages/basic-constitution.md)
+- [X] [Basic Attributes](./stages/basic-attributes.md)
+- [X] [Equipable items](./stages/equipable-items.md)
+- [X] [Stackable items](./stages/stackable-items.md)
 - [ ] [Basic battle system](./stages/basic-battle-system.md)
