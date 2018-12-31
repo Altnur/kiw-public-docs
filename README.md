@@ -8,6 +8,10 @@ Ranging from multiple features, from basic rpg elements, like leveling, classes,
 
 This game is my own personal idea of the ideal 2d rpg game, so I want to include everything I can.
 
+## Lore and content
+
+Everything regarding the lore, and the content of the game, is [here](./lore/index.md)
+
 ## Stages
 
 The game development will be splitted in phases or stages, in a way that will be released in small or big updates.
@@ -17,8 +21,31 @@ Starting from the very base and conceptual idea of an RPG, to the most complex s
 ### Planned stages
 
 - [X] [Base](./stages/base.md)
+- [ ] UI
+    - [ ] Basic status
+    - [ ] Inventory
+    - [ ] Equipment window
 - [X] [Basic Constitution](./stages/basic-constitution.md)
 - [X] [Basic Attributes](./stages/basic-attributes.md)
-- [X] [Equipable items](./stages/equipable-items.md)
-- [X] [Stackable items](./stages/stackable-items.md)
+- [ ] [Equipable items](./stages/equipable-items.md)
+- [ ] [Stackable items](./stages/stackable-items.md)
+- [ ] [Hands system](./stages/hand-system.md)
 - [ ] [Basic battle system](./stages/basic-battle-system.md)
+    - [ ] Types of weapons
+- [ ] Crafting
+    - [ ] Blacksmithing
+    - [ ] Alchemy
+    - [ ] Cooking
+    - [ ] Carpentry
+    - [ ] Leatherworking
+    - [ ] Tailoring
+- [ ] Game Feedback
+    - [ ] Camera shaking when hit
+    - [ ] Camera shaking when hitted
+- [ ] Generators
+    - [ ] World generator
+    - [ ] Town generator
+    - [ ] Cave generator
+- [ ] NPCs
+- [ ] Monsters
+    - [ ] Slime
