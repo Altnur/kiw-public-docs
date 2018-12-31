@@ -21,8 +21,8 @@ Starting from the very base and conceptual idea of an RPG, to the most complex s
 ### Planned stages
 
 - [X] [Base](./stages/base.md)
-- [ ] [UI](./UI/ui.md)
-    - [ ] [Basic status](./UI/basic-status.md)
+- [ ] [UI](./stages/UI/ui.md)
+    - [ ] [Basic status](./stages/UI/basic-status.md)
     - [ ] Inventory
     - [ ] Equipment window
 - [X] [Basic Constitution](./stages/basic-constitution.md)
