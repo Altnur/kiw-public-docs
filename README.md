@@ -30,7 +30,7 @@ Starting from the very base and conceptual idea of an RPG, to the most complex s
 - [ ] [Level and Skills system](.level-and-skills-system.md)
 - [ ] [Equipable items](./stages/equipable-items.md)
 - [ ] [Stackable items](./stages/stackable-items.md)
-- [ ] [Hands system](./stages/hand-system.md)
+- [ ] [Hands system](./stages/hands-system.md)
 - [ ] [Basic battle system](./stages/basic-battle-system.md)
     - [ ] Types of weapons
 - [ ] Crafting
