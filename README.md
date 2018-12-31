@@ -21,12 +21,13 @@ Starting from the very base and conceptual idea of an RPG, to the most complex s
 ### Planned stages
 
 - [X] [Base](./stages/base.md)
-- [ ] UI
-    - [ ] Basic status
+- [ ] [UI](./UI/ui.md)
+    - [ ] [Basic status](./UI/basic-status.md)
     - [ ] Inventory
     - [ ] Equipment window
 - [X] [Basic Constitution](./stages/basic-constitution.md)
 - [X] [Basic Attributes](./stages/basic-attributes.md)
+- [ ] [Level and Skills system](.level-and-skills-system.md)
 - [ ] [Equipable items](./stages/equipable-items.md)
 - [ ] [Stackable items](./stages/stackable-items.md)
 - [ ] [Hands system](./stages/hand-system.md)
