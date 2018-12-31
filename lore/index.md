@@ -8,5 +8,5 @@ Here is listed everything about the lore, in diferent sections
 - [History Timeline](./temporal-line.md)
 - Races
 - Creatures
-- Weapons
+- [Weapons](./weapons/weapons.md)
 - Other items
