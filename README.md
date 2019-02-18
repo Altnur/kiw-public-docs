@@ -23,11 +23,12 @@ Starting from the very base and conceptual idea of an RPG, to the most complex s
 - [X] [Base](./stages/base.md)
 - [ ] [UI](./stages/UI/ui.md)
     - [ ] [Basic status](./stages/UI/basic-status.md)
-    - [ ] Inventory
-    - [ ] Equipment window
+    - [ ] [Inventory](./stages/UI/inventory.md)
+    - [ ] [Equipment window](./stages/UI/equipment-window.md)
+- [X] [Extended Inventory](./stages/extended-inventory.md)
 - [X] [Basic Constitution](./stages/basic-constitution.md)
 - [X] [Basic Attributes](./stages/basic-attributes.md)
-- [ ] [Level and Skills system](.level-and-skills-system.md)
+- [ ] [Level and Skills system](./stages/level-and-skills-system.md)
 - [ ] [Equipable items](./stages/equipable-items.md)
 - [ ] [Stackable items](./stages/stackable-items.md)
 - [ ] [Hands system](./stages/hands-system.md)
